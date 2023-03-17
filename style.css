@@ -1,0 +1,11 @@
+.layout {
+    position: absolute;
+
+    width: 1300px;
+    height: 4400px;
+
+    background-image: url(layout.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.5;
+}
